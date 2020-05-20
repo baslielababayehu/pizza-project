@@ -1,0 +1,3 @@
+/Users/basi/Downloads/Pizza 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/basi/Downloads/Pizza 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/basi/Downloads/Pizza 5/cmake-build-debug/CMakeFiles/Pizza.dir
